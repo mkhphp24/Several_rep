@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "PRODUCT_IDENTIFIER": "ABC12345678",
+      "EAN_CODE_GTIN": "05449000061704",
+      "BRAND": "Beverages Ltd",
+      "NAME": "Beverage 23, 6x 0.75 L",
+      "PACKAGE": "CA",
+      "ADDITIONAL_INFO": "BO",
+      "VESSEL": "LT",
+      "LITERS_PER_BOTTLE": "0.75",
+      "BOTTLE_AMOUNT": "6"
+    }
+    ]
+}
+
